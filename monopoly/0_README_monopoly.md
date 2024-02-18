@@ -1,6 +1,8 @@
 # Monopoly Game Simulator (JAVA)
 
 <br/>
+<img src="2_monopoly.jpg" width="500">
+<br/>
 
 ## Description of the Program
 The program aims to simulate the popular board game "Monopoly". The main interface of the program is the command line, which displays all the information relative to the game, and allows us to navigate through the menus and introduce information. In addition, an extra Java Panel has been added to the interface of the command line, which will allow the players to throw the dices each turn, and will show the information relative to the players at all times (name, dices, money and position in the board), in order to make it simple for the users to quickly know the situation of the game at a glance.
