@@ -13,7 +13,7 @@ Instrucciones para el uso del programa del Comecocos:
 2) Se recomienda reducir el zoom de la terminal hasta el minimo que permita leer con comodidad si se ejecuta desde Ubuntu, ya que asi no habra que mover la barra arriba y abajo 
 	para ver todo lo necesario cada turno.
 
-3) En el compilador/terminal se debe poner lo siguiente: (una vez nos encontremos en la carpeta de practica_final)
+3) En el compilador/terminal se debe poner lo siguiente: (una vez nos encontremos en la carpeta de comecocos)
 
 				$ gcc comecocos.c -o exe
 				$ ./exe informe_partida.txt tablero_inicial.txt
@@ -25,14 +25,17 @@ Instrucciones para el uso del programa del Comecocos:
 	
 4) Mencionadas estas aclaraciones, espero que disfrute del juego del comecocos!
 
+
 <br/>
 
+
 # Instructions (English Version)
+
 1) The text files and C files were programmed on Windows with Notepad, therefore it is recommended to remove line wrapping and adjust zoom if running from Ubuntu, as the file will be more organized.
 
 2) It is recommended to reduce the terminal zoom to the minimum comfortable level if running from Ubuntu, so there is no need to scroll up and down to see everything necessary each turn.
 
-3) In the compiler/terminal, the following should be entered: (once we are in the practice_final folder)
+3) In the compiler/terminal, the following should be entered: (once we are in the pacman folder)
 
 				$ gcc comecocos.c -o exe
 				$ ./exe informe_partida.txt tablero_inicial.txt
