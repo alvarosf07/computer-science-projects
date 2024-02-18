@@ -1,0 +1,24 @@
+Instrucciones para el uso del programa del Comecocos: 
+
+1) Los archivos de texto y los archivos C, fueron programados en Windows con el pac de notas, por tanto se recomienda quitar ajuste de lineas y ajustar zoom
+	si se ejecuta desde ubuntu, ya que el archivo estara mas ordenado.
+
+2) Se recomienda reducir el zoom de la terminal hasta el minimo que permita leer con comodidad si se ejecuta desde Ubuntu, ya que asi no habra que mover la barra arriba y abajo 
+	para ver todo lo necesario cada turno.
+
+3) En el compilador/terminal se debe poner lo siguiente: (una vez nos encontremos en la carpeta de practica_final)
+
+				$ gcc comecocos.c -o exe
+				$ ./exe informe_partida.txt tablero_inicial.txt
+ 
+	Ya que son los archivos que por defecto se han creado para que el programa funcione correctamente. 
+	
+	*Para la opcion guardar tablero, dentro de la partida, se podrá usar el archivo guardar_tablero.txt que tambien se encuentra en esta carpeta, o en su defecto cualquier otro nombre que quiera el usuario.
+	
+
+4) El propio juego viene con instrucciones, pero aun asi tiene que quedar claro que despues de implementar la funcion del movimiento fantasma, me di cuenta de que era practicamente
+	imposible ganar, por lo que le implementé la opcion de elegir dificultad al principio de la partida contra el ordenador, a pesar de que no venia en la practica. Es solo para hacer mas 
+	entretenido el juego, ya que si no pierdes en tres turnos y aburre un poco, pero en teoria la practica deberia ser siempre en dificultad dificil, que es cuando los fantasmas mueven 
+	2 veces y tu solo 1.
+	
+5) Dichas estas aclaraciones, espero que disfrute del juego del comecocos!
