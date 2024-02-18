@@ -1,4 +1,7 @@
 # Monopoly Game Simulator (Implemented in JAVA)
+
+<br/>
+
 ## Description of the Program
 The program aims to simulate the popular board game "Monopoly". The main interface of the program is the command line, which displays all the information relative to the game, and allows us to navigate through the menus and introduce information. In addition, an extra Java Panel has been added to the interface of the command line, which will allow the players to throw the dices each turn, and will show the information relative to the players at all times (name, dices, money and position in the board), in order to make it simple for the users to quickly know the situation of the game at a glance.
 
@@ -10,6 +13,7 @@ After the corresponding information has been displayed, the main options menu fo
 
 After exploring all the options of the menu, the player can decide whether or not to buy the property where he has landed. In case he doesn’t want to, he can select: "end turn". In this case, the auction for the property automatically starts, and the player who has rejected the purchase can still participate. All the players can submit their bids, and the player with the higher bid at the end of the round is the one who will purchase the property. If all the players introduce the number 0, the property will not be purchased by anyone.
 
+<br/>
 
 
 ## Exceptions, Limitations and Additional Information
