@@ -1,4 +1,4 @@
-# Monopoly Game Simulator (Implemented in JAVA)
+# Monopoly Game Simulator (JAVA)
 
 <br/>
 
