@@ -1,4 +1,4 @@
-# PacMan Simulator (C++)
+# PacMan Game (C++)
 
 <br/>
 <img src="1_pacman.png" width="500">
